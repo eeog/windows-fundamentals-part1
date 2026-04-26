@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%20Endpoint%20Analysis-Blue?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Windows%20Fundamentals-red?style=for-the-badge&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/SOC%20Skills-Log%20Analysis%20%7C%20Processes%20%7C%20Services-green?style=for-the-badge" />
+</p>
+
+<h1 align="center">Windows Fundamentals Part 1 — Endpoint Investigation Project</h1>
+
+
+
 # Windows Fundamentals Part 1 — Endpoint Investigation Project
 
 This project builds on my previous investigation work and expands it into the Windows ecosystem. It demonstrates practical skills used in security operations, including analysing user accounts, reviewing system configuration, understanding NTFS structure, inspecting user profiles, and examining running processes and system behaviour.
