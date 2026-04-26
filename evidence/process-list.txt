@@ -1,0 +1,12 @@
+Name                Id   CPU     WS(K)
+----                --   ---     -----
+explorer           1420  00.5    78520
+svchost            1036  00.2    25640
+svchost            1124  00.1    19800
+SearchApp          2216  00.3    60240
+RuntimeBroker      1884  00.1    18400
+cmd                3152  00.0     3500
+powershell         3220  00.1    28900
+MsMpEng            1672  02.1   152300
+OneDrive           2540  00.2    41200
+System Idle Process    0 98.0        24
