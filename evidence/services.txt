@@ -1,0 +1,12 @@
+Status   Name                     DisplayName
+------   ----                     -----------
+Running  WinDefend                Microsoft Defender Antivirus Service
+Running  EventLog                 Windows Event Log
+Running  Schedule                 Task Scheduler
+Running  LanmanWorkstation        Workstation
+Running  Dhcp                     DHCP Client
+Running  Themes                   Themes
+Stopped  RemoteRegistry           Remote Registry
+Running  W32Time                  Windows Time
+Running  MpsSvc                   Windows Firewall
+Running  BITS                     Background Intelligent Transfer Service
