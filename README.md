@@ -7,10 +7,6 @@
 
 <h1 align="center">Windows Fundamentals Part 1 — Endpoint Investigation Project</h1>
 
-
-
-# Windows Fundamentals Part 1 — Endpoint Investigation Project
-
 This project builds on my previous investigation work and expands it into the Windows ecosystem. It demonstrates practical skills used in security operations, including analysing user accounts, reviewing system configuration, understanding NTFS structure, inspecting user profiles, and examining running processes and system behaviour.
 
 The goal of this project is to show my ability to investigate a Windows endpoint confidently — a core requirement for SOC analysts and cybersecurity professionals.
