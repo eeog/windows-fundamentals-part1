@@ -1,0 +1,6 @@
+Name        Enabled LastLogon
+----        ------- ---------
+Administrator  True   4/25/2026 09:12:00
+analyst        True   4/25/2026 09:14:22
+Guest         False
+Max           True    4/24/2026 18:03:11
