@@ -1,0 +1,8 @@
+TimeCreated           Id   LevelDisplayName   Message
+------------          ---  ----------------   -------
+4/25/2026 09:12:44    4624 Information        An account was successfully logged on.
+4/25/2026 09:12:44    4624 Information        Logon Type: 2 (Interactive)
+4/25/2026 09:13:02    4624 Information        User: analyst
+4/25/2026 09:14:10    4624 Information        User: analyst (elevated via UAC)
+4/25/2026 09:14:55    4634 Information        An account was logged off.
+4/25/2026 09:15:01    4625 FailureAudit       Failed logon attempt (invalid password)
