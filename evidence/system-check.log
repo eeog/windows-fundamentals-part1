@@ -1,0 +1,26 @@
+[*] Starting Windows endpoint investigation...
+--------------------------------------------------------
+[*] Collecting system and user information...
+Hostname: WIN-TEST01
+User: Administrator
+Domain: WORKGROUP
+Date: Sat Apr 25 09:15:00 2026
+
+[*] Enumerating local user accounts...
+[+] Local user accounts saved to evidence/user-accounts.txt
+
+[*] Capturing running processes...
+[+] Top processes saved to evidence/process-list.txt
+
+[*] Enumerating services...
+[+] Services list saved to evidence/services.txt
+
+[*] Enumerating installed programs...
+[+] Installed programs saved to evidence/installed-programs.txt
+
+[*] Collecting recent logon events...
+[+] Security logon events saved to evidence/security-logon-events.txt
+
+[*] Windows endpoint investigation completed.
+Evidence written to: evidence
+--------------------------------------------------------
